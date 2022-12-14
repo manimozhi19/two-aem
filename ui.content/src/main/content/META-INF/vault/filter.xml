@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/two" mode="merge"/>
+    <filter root="/content/two" mode="merge"/>
+    <filter root="/content/dam/two/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/two" mode="merge"/>
+</workspaceFilter>
